@@ -1,1 +1,2 @@
-# -nteraktif-Ses-Tasar-m-Projesi
+# Interaktif-Ses-Tasarım -Projesi
+Bu projenin elektronik kısmının tasarlanmasında rol aldım.
