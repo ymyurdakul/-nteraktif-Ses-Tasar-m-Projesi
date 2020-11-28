@@ -1,2 +1,2 @@
 # Interaktif-Ses-Tasarım -Projesi
-Bu projenin elektronik kısmının tasarlanmasında rol aldım.
+Bu projenin elektronik devre tasarımı ve seri iletişimi sağlayan yazılımını tasarladım.
